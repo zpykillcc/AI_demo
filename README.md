@@ -67,9 +67,8 @@ CREATE TABLE user
 
 完成登陆、注册、上传头像、上传，User静态资源获取等
 
-同时与算法测Stable diffusion交互获取虚拟形象，与facenet交互进行人脸录入和人脸识别登录
+同时与算法测Stable diffusion交互获取虚拟形象，与facenet交互进行人脸录入和人脸识别登录，使用baidu OCR识别api识别文本
 
 算法端地址 https://github.com/zpykillcc/software_AI
-
 
 
